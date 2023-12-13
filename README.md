@@ -2,6 +2,7 @@
 MonoHuman is a framework that generates animated virtual avatars using images from a monocular (single-camera) view. These avatars can be used in a variety of applications, such as virtual reality and digital implementations. It attempts to solve shortcomings of previous works that experienced issues such as pose-dependence and a limited ability to generalize to unseen poses. After consulting the available literature, MonoHuman’s development was guided by three central observations: the deformation weight field must be pose independent and within canonical space, the deformation field must be consistent in implementing both forward and backward deformation, and referencing input observation input directly improves the performance of the model.
 
 Link to original project Github: https://github.com/Yzmblog/MonoHuman
+
 Link to the **Project Report**: https://docs.google.com/document/d/1wiLaC8pTPlmFQ8GfjZOfW_tkYqxFPIA9P5Xjvq1MFXU/edit?usp=sharing
 
 ## Easy Steps To Execute

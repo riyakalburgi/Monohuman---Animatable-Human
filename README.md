@@ -19,6 +19,7 @@ Note: You can also access the whole Monohuman-main folder from here (https://dri
 
 2. Download and execute the Monohuman-Avatar.ipynb file : This file generates the avatar from the single monocular video
 3. Download and execute the Monohuman-Animation.ipynb file : This files generates the animation for the avatar and based on the input animation provided
-4. Download and execute the Monohuman-StreamLit.ipynb file : This files locally hosts the webpage for our project
+4. Download and execute the Monohuman-StreamLit.ipynb file (In the files, upload all the files present in the output folder before execution) : This files locally hosts the webpage for our project
 
 NOTE: Make the necessary path updates, if needed.
+Running only the Monohuman-Streamlit file should show you all the results that the codes generate. 

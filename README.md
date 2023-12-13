@@ -6,11 +6,17 @@ Link to original project Github: https://github.com/Yzmblog/MonoHuman
 ## Easy Steps To Execute
 Steps:
 1. Get all the dataset in place: Download the Monohuman-main (please note we need to add 4 more folders/files here, the link to which are provided below), HumanML3D-main, motion-diffusion-model-main and store it in google drive
+
       a. CoreView _386 (https://drive.google.com/drive/folders/1DVGewbGwSMKARoB-Lfb6plpe5eie9CSS?usp=drive_link)
+   
       b. dataset (https://drive.google.com/drive/folders/10Ekxqf0JtumEnd8CdzfVlfaRqmqzkPSV?usp=drive_link)
+   
       c. experiments (https://drive.google.com/drive/folders/166cifEjZqKMd_ZEOEhi4ZqccrrkmCd0f?usp=drive_link)
+   
       d. Miniconda3-py37_4.9.2-Linux-x86_64 (https://drive.google.com/file/d/17RQTcwnXfFemVs1FvAuxXXgFsYO5olV1/view?usp=drive_link)
+   
 Note: You can also access the whole Monohuman-main folder from here (https://drive.google.com/drive/folders/1F_d-2agltwxD-uBRIHVGk7Ua1aLtOmaD?usp=drive_link)
+
 2. Download and execute the Monohuman-Avatar.ipynb file : This file generates the avatar from the single monocular video
 3. Download and execute the Monohuman-Animation.ipynb file : This files generates the animation for the avatar and based on the input animation provided
 4. Download and execute the Monohuman-StreamLit.ipynb file : This files locally hosts the webpage for our project

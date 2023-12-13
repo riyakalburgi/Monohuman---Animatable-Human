@@ -9,8 +9,11 @@ Link to original project Github: https://github.com/Yzmblog/MonoHuman
 Link to the **Project Report**: https://docs.google.com/document/d/1wiLaC8pTPlmFQ8GfjZOfW_tkYqxFPIA9P5Xjvq1MFXU/edit?usp=sharing
 
 ## Easy Steps To Execute
+
+For ease of execution & environment requirements, we suggest to run the code in **Google Colab**
+
 Steps:
-1. Download and execute the **Monohuman-StreamLit.ipynb** file (In the files in colab, upload all the files present in the Outputs folder before execution) : This files locally hosts the webpage for our project
+1. Run the **Monohuman-Streamlit (1).ipynb** file in Google Colab (In the files in colab, upload all the files present in the Outputs folder before execution) : This files locally hosts the webpage for our project
 2. The comment !curl ipv4.icanhazip.com gives the end point IP address for the localtunnel. When clicking on the localtunnel url, the end point IP address is asked. Enter the curl command generated IP address there and click submit to view the webpage.
 
 #### If you want to execute all the files that generated the Output, follow the steps below (not required for viewing streamlit):
@@ -26,13 +29,13 @@ Steps:
    
 Note: You can also access the whole Monohuman-main folder from here (https://drive.google.com/drive/folders/1F_d-2agltwxD-uBRIHVGk7Ua1aLtOmaD?usp=drive_link)
 
-2. Download and execute the **Monohuman-Avatar.ipynb** file : This file generates the avatar from the single monocular video
+2. Run the **Monohuman-Avatar.ipynb** file in Google Colab: This file generates the avatar from the single monocular video
    <img width="946" alt="image" src="https://github.com/riyakalburgi/Monohuman---Animatable-Human/assets/56675842/c713d1f4-5d70-4836-9dc7-f09827a3ac71">
    Might have to update the path here, depending on where the Monohuman-main folder is placed within your drive.
    
 Note: This code includes the whole pipeline for pre-processing, training, and rendering. To complete any part of the process, you must uncomment certain blocks in order. Currently, we have the pre-processed data and the trained model in the folder. Re-running the pre-processing/training takes many hours and may override it. However, you can generate the animations without overriding if needed. You can view our outputs in Outputs folder.
 
-3. Download and execute the **Monohuman-Animation.ipynb** file : This files generates the animation for the avatar and based on the text input animation provided.
+3. Run the **Monohuman-Animation.ipynb** file in Google Colab: This files generates the animation for the avatar and based on the text input animation provided.
 
 # NOTE: 
 Make the necessary path updates, if needed.

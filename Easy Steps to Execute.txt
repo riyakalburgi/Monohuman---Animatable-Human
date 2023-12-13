@@ -1,0 +1,5 @@
+Steps:
+1. Get all the dataset in place: Download the Monohuman-main, HumanML3D-main, motion-diffusion-model-main and store it in google drive
+2. Download and execute the Monohuman-Avatar.ipynb file : This file generates the avatar from the single monocular video
+3. Download and execute the Monohuman-Animation.ipynb file : This files generates the animation for the avatar and based on the input animation provided
+4. Download and execute the Monohuman-StreamLit.ipynb file : This files locally hosts the webpage for our project

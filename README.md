@@ -18,8 +18,11 @@ Steps:
 Note: You can also access the whole Monohuman-main folder from here (https://drive.google.com/drive/folders/1F_d-2agltwxD-uBRIHVGk7Ua1aLtOmaD?usp=drive_link)
 
 2. Download and execute the Monohuman-Avatar.ipynb file : This file generates the avatar from the single monocular video
+   <img width="946" alt="image" src="https://github.com/riyakalburgi/Monohuman---Animatable-Human/assets/56675842/c713d1f4-5d70-4836-9dc7-f09827a3ac71">
+   Might have to update the path here, depending on where the Monohuman-main folder is placed within your drive
+
 3. Download and execute the Monohuman-Animation.ipynb file : This files generates the animation for the avatar and based on the input animation provided
-4. Download and execute the Monohuman-StreamLit.ipynb file (In the files, upload all the files present in the output folder before execution) : This files locally hosts the webpage for our project
+4. Download and execute the Monohuman-StreamLit.ipynb file (In the files in colab, upload all the files present in the output folder before execution) : This files locally hosts the webpage for our project
 
 NOTE: Make the necessary path updates, if needed.
 Running only the Monohuman-Streamlit file should show you all the results that the codes generate. 

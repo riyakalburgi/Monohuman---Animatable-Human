@@ -33,7 +33,7 @@ Note: You can also access the whole Monohuman-main folder from here (https://dri
    <img width="946" alt="image" src="https://github.com/riyakalburgi/Monohuman---Animatable-Human/assets/56675842/c713d1f4-5d70-4836-9dc7-f09827a3ac71">
    Might have to update the path here, depending on where the Monohuman-main folder is placed within your drive.
    
-Note: This code includes the whole pipeline for pre-processing, training, and rendering. To complete any part of the process, you must uncomment certain blocks in order. Currently, we have the pre-processed data and the trained model in the folder. Re-running the pre-processing/training takes many hours and may override it. However, you can generate the animations without overriding if needed. You can view our outputs in Outputs folder.
+Note: This code includes the whole pipeline for pre-processing, training, and rendering. To complete the entire pipeline, uncomment the specified blocks in the Monohuman-Avatar.ipynb code. This will take several hours.
 
 3. Run the **Monohuman-Animation.ipynb** file in Google Colab: This files generates the animation for the avatar and based on the text input animation provided.
 
